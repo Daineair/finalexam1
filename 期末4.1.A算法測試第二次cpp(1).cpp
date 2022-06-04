@@ -9,7 +9,7 @@
 #define MonsterTime 5000//生怪時間間隔 
 #define Prop_Time 10000//道具生成間隔 
 #define MonsterMoveTime 200//怪物移動速度間隔 
-
+// Hello
 using namespace std;
 
 void gotoxy(int x, int y) {
